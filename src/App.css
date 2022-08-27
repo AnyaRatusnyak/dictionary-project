@@ -20,5 +20,6 @@ a {
 }
 .App-footer {
   text-align: center;
-  margin: 30px 0;
+  font-size: 14px;
+  margin: 20px 0;
 }
